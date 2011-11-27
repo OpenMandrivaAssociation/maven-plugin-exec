@@ -1,6 +1,6 @@
 Name:           maven-plugin-exec
 Version:        1.1
-Release:        2
+Release:        4
 Summary:        Exec Maven Plugin
 
 Group:          Development/Java

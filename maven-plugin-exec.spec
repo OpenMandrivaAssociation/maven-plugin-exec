@@ -5,7 +5,7 @@ Summary:        Exec Maven Plugin
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://mojo.codehaus.org/exec-maven-plugin
+URL:            https://mojo.codehaus.org/exec-maven-plugin
 # The source tarball has been generated from upstream VCS:
 # svn export https://svn.codehaus.org/mojo/tags/exec-maven-plugin-%{version} 
 #            %{name}-%{version}
